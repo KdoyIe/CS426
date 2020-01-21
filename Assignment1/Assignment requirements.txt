@@ -1,0 +1,9 @@
+Use POV Ray to create an animated sequence of your choice with the following
+requirements.
+
+The code should make use of commands such as object, difference and union to build at least one complicated object using simpler primitives.
+
+The idea should be original.
+It should not be an exact rework of an online tutorial or of the handout.
+
+Either the camera or the object should move during the animation sequence.
