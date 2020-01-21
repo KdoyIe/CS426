@@ -1,0 +1,3 @@
+Create a 2D sprite based game of your own.
+
+Disclamer for this assignment, we were given then code for a base game and were required to edit the code to create our own game.
